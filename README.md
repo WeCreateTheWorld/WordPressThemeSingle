@@ -28,7 +28,7 @@ Installing and customizing this theme is very easy. All required information are
 
 ## Configuration
 
-### super wide image
+### super wide image 
 
 + set post thumbnail
 + use `<p class=”with-img”></p>` tag
