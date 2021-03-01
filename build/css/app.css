@@ -22,13 +22,13 @@ html {
 	-ms-text-size-adjust:100%;
 
 
-	/* 这个用来置博客为黑白色 */
+	/* 这个用来置博客为黑白色
 		-webkit-filter: grayscale(100%);
 		-moz-filter: grayscale(100%);
 		-ms-filter: grayscale(100%);
 		-o-filter: grayscale(100%);
 		filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
-		filter: gray;
+		filter: gray; */
 	
 }
 button,input,textarea {

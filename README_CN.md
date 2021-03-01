@@ -122,4 +122,6 @@ Puma 是一款简洁的主题，非常适合个人博客。响应式的设计意
 
 ## 赞助
 
+
+
 ![](http://static.fatesinger.com/2015/10/o3zg1edhrs8h8gom.JPG)![](http://static.fatesinger.com/2015/10/3knkyzswj5srf0xj.JPG)
