@@ -832,7 +832,7 @@ body {
 .surface-content {
     background-color: #fff;
     margin: 60px auto 10px auto;
-    max-width: 1000px !important;
+    max-width: 900px !important;
     box-shadow: rgb(203 208 218) 0px 2px, rgb(48 52 63 / 20%) 0px 3px, rgb(48 52 63 / 20%) 0px 7px 7px, rgb(255 255 255) 0px 0px 0px 1px inset;
 }
 
@@ -1381,8 +1381,8 @@ body {
         padding: 15px 0
     }
     .block-title {
-        font-size: 20px;
-        line-height: 1.4
+        line-height: 1.4;
+        font-size: 30px;
     }
     .section-body {
         padding-top: 15px

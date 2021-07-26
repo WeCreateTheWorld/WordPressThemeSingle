@@ -6,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <link rel="shortcut icon" href="<?php echo get_template_directory_uri();?>/build/img/favicon.png" type="image/vnd.microsoft.icon">
 	<link rel="stylesheet"  href="<?php echo get_template_directory_uri();?>/build/css/font-awesome-4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet"  href="<?php echo get_template_directory_uri();?>/build/css/bootstrap.min.css" />
+     <link rel="stylesheet"  href="<?php echo get_template_directory_uri();?>/build/css/bootstrap.min.css" />
     <?php wp_head();?>
-	
+	<script type="text/javascript" src="<?php echo get_template_directory_uri();?>/build/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="<?php echo get_template_directory_uri();?>/build/js/aixintexiao.js"></script>
-    <script type="text/javascript" src="<?php echo get_template_directory_uri();?>/build/js/bootstrap.min.js"></script>
+    
 </head>
 <body <?php body_class();?>>
 <div class="surface-content">

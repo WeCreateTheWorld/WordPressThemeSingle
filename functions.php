@@ -60,7 +60,10 @@ require get_template_directory() . '/inc/footerfunc.php';
 /**require get_template_directory() . '/inc/owo.php';*/
 
 
-
+/**
+ * 产品展示
+ */
+add_theme_support( 'post-thumbnails' );
 
 //说说页面
 function shuoshuo_custom_init()
